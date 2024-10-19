@@ -14,6 +14,7 @@
 
 
 ## 🌐 Socials:
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdiwali-ibrahim-36aa16299//abdiwali-ibrahim-36aa16299/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bytjglm3urm2%2bcmks9nbscw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdiwali-ibrahim-36aa16299//abdiwali-ibrahim-36aa16299/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bytjglm3urm2%2bcmks9nbscw%3d%3d" height="30" width="40" /></a>
 <a href="https://twitter.com/abd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abd" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
