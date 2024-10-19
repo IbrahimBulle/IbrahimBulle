@@ -1,3 +1,19 @@
+<h1 align="center">Hi 👋, I'm Ibrahim</h1>
+<h3 align="center">A passionate frontend developer from Kenya</h3>
+
+- 🔭 I’m currently working on [Bootstrap Frontend](https://github.com/IbrahimBulle/bootstrap-web)
+
+- 🌱 I’m currently learning **Kotlink**
+
+- 👨‍💻 All of my projects are available at [https://github.com/IbrahimBulle?tab=repositories](https://github.com/IbrahimBulle?tab=repositories)
+
+- 💬 Ask me about **Bootstrap**
+
+- 📫 How to reach me **abdiwaliibrahimbule@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 ## Hi there 👋
 - 🔭 I’m currently working on ...Bootstrap-Frontend
 - 🌱 I’m currently learning ...Kotlin
