@@ -14,7 +14,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdiwali-ibrahim-36aa16299) [![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abdiwalbulle) 
 <a href="https://twitter.com/abd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abd" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
