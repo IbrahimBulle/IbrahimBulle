@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bootstrap Frontend](https://github.com/IbrahimBulle/bootstrap-web)
 
-- 🌱 I’m currently learning **Kotlink**
+- 🌱 I’m currently learning   **Kotlink**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IbrahimBulle?tab=repositories](https://github.com/IbrahimBulle?tab=repositories)
 
@@ -11,19 +11,7 @@
 
 - 📫 How to reach me **abdiwaliibrahimbule@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-## Hi there 👋
-- 🔭 I’m currently working on ...Bootstrap-Frontend
-- 🌱 I’m currently learning ...Kotlin
-- 👯 I’m looking to collaborate on ...Android-Development
-- 🤔 I’m looking for help with ...Jet-PAck Compose
-- 💬 Ask me about ...BOOTSTRAP
-- 📫 How to reach me: ...abdiwaliibrahimbulle@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdiwali-ibrahim-36aa16299) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abdiwalbulle) 
