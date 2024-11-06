@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bootstrap Frontend](https://github.com/IbrahimBulle/bootstrap-web)
 
-- 🌱 I’m currently learning   **Kotlink**
+- 🌱 I’m currently learning   **KOTLIN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IbrahimBulle?tab=repositories](https://github.com/IbrahimBulle?tab=repositories)
 
