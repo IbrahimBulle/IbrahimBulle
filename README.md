@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>e
+<h3 align="center">A passionate frontend developer from Kenya</h3>
 
 - 🔭 I’m currently working on [Bootstrap Frontend](https://github.com/IbrahimBulle/bootstrap-web)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IbrahimBulle?tab=repositories](https://github.com/IbrahimBulle?tab=repositories)
 
-- 💬 Ask me about **Bootstrap**
+- 💬 Ask me about **HTML , CSS , JS and BOOTSTRAP**
 
 - 📫 How to reach me **abdiwaliibrahimbule@gmail.com**
 
