@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdiwaliibrahimbule@gmail.com**
 
-
+![Snake animation](https://raw.githubusercontent.com/IbrahimBulle/IbrahimBulle/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdiwali-ibrahim-36aa16299//abdiwali-ibrahim-36aa16299/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bytjglm3urm2%2bcmks9nbscw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdiwali-ibrahim-36aa16299//abdiwali-ibrahim-36aa16299/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bytjglm3urm2%2bcmks9nbscw%3d%3d" height="30" width="40" /></a>
