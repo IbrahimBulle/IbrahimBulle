@@ -1,3 +1,4 @@
+![Snake animation](https://raw.githubusercontent.com/IbrahimBulle/IbrahimBulle/output/github-contribution-grid-snake-dark.svg)
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
