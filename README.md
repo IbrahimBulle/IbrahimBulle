@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Ibrahim.</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🔭<b> I’m currently working on [Bootstrap Frontend](https://github.com/IbrahimBulle/bootstrap-web)</b>
+- <b> 🔭I’m currently working on [Bootstrap Frontend](https://github.com/IbrahimBulle/bootstrap-web)</b>
 
-- 🌱 I’m currently learning   **KOTLIN**
+- <b> 🌱 I’m currently learning   **KOTLIN**</b>
 
-- 👨‍💻 All of my projects are available at [https://github.com/IbrahimBulle?tab=repositories](https://github.com/IbrahimBulle?tab=repositories)
+- <b> 👨‍💻 All of my projects are available at [https://github.com/IbrahimBulle?tab=repositories](https://github.com/IbrahimBulle?tab=repositories)</b>
 
-- 💬 Ask me about **HTML , CSS , JS and BOOTSTRAP**
+- <b> 💬 Ask me about **HTML , CSS , JS and BOOTSTRAP**</b>
 
-- 📫 How to reach me **abdiwaliibrahimbule@gmail.com**
+- <b> 📫 How to reach me **abdiwaliibrahimbule@gmail.com**</b>
 
 ![Snake animation](https://raw.githubusercontent.com/IbrahimBulle/IbrahimBulle/output/github-contribution-grid-snake-dark.svg)
 
