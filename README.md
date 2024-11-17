@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ibrahim</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim.</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
 - 🔭 I’m currently working on [Bootstrap Frontend](https://github.com/IbrahimBulle/bootstrap-web)
