@@ -8,7 +8,7 @@
 
 - <b> 👨‍💻 All of my projects are available at [https://github.com/IbrahimBulle?tab=repositories](https://github.com/IbrahimBulle?tab=repositories)</b>
 
-- <b> 💬 Ask me about <a href="#">**HTML , CSS , JS and BOOTSTRAP**</a></b>
+- <b> 💬 Ask me about <a href="#" style="text-decoration:none;">**HTML , CSS , JS</a>  and <a href="#"> BOOTSTRAP**</a></b>
 
 - <b> 📫 How to reach me **abdiwaliibrahimbule@gmail.com**</b>
 
