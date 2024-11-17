@@ -1,3 +1,4 @@
+# 💫 About Me:<br>
 <h1 align="center">Hi 👋, I'm Ibrahim.</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
