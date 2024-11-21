@@ -4,7 +4,7 @@
 
 - <b> 🔭I’m currently working on [Bootstrap Frontend](https://github.com/IbrahimBulle/bootstrap-web)</b>
 
-- <b> 🌱 I’m currently learning   <a href="#">**KOTLIN**</a></b>
+- <b> 🌱 I’m currently learning   <a href="#">**EXPRESS**</a></b>
 
 - <b> 👨‍💻 All of my projects are available at [https://github.com/IbrahimBulle?tab=repositories](https://github.com/IbrahimBulle?tab=repositories)</b>
 
