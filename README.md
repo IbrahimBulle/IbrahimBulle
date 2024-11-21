@@ -49,7 +49,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBulle&theme=chartreuse-dark" /></td>
-    <td align="right"><img width="450px"src="https://github-readme-stats.vercel.app/api/pin/?username=IbrahimBulle&theme=chartreuse-dark&repo=Africas-Talking-APIs" </td>
+    
   </tr>
 </table>
 
