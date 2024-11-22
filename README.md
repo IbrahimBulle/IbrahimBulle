@@ -44,12 +44,14 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
+    <td>
   <a href="https://github.com/IbrahimBulle/github-readme-stats">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IbrahimBulle&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/IbrahimBulle/convoychat">
   <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimBulle&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
 </a>
+   </td>
 </tr>
 
   <tr>
