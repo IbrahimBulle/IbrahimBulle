@@ -35,17 +35,17 @@
 ## 📊 GitHub Stats:
 <div class="stats-grid">
   <div class="stats-item">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=IbrahimBulle&show_icons=true&theme=chartreuse-dark" />
+    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=IbrahimBulle&show_icons=true&theme=chartreuse-dark" />
   </div>
   <div class="stats-item">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimBulle&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
+    <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimBulle&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
   </div>
 </div>
 
 ## 📈 GitHub Streaks:
 <div class="streaks-grid">
   <div class="streaks-item">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBulle&theme=chartreuse-dark" />
+    <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBulle&theme=chartreuse-dark" />
   </div>
 </div>
 
@@ -57,29 +57,3 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abdiwaliibrahimbulle@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<style>
-  /* Default layout (single column) for small screens */
-  .stats-grid,
-  .streaks-grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
-
-  /* Large screen layout (two columns) */
-  @media (min-width: 768px) {
-    .stats-grid {
-      grid-template-columns: 1fr 1fr;
-    }
-    .streaks-grid {
-      grid-template-columns: 1fr;
-    }
-  }
-
-  /* Optional: Styling individual items if needed */
-  .stats-item,
-  .streaks-item {
-    margin: 0;
-  }
-</style>
