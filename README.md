@@ -51,8 +51,9 @@
 <a href="https://github.com/IbrahimBulle/convoychat">
   <img align="left" width="47%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimBulle&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
 </a>
+     </td>
    </tr>
-  </td>
+ 
   <tr>
     <td align="center"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBulle&theme=chartreuse-dark"/> </td>
     
