@@ -55,7 +55,7 @@
 </tr>
 
   <tr>
-    <td align="left"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBulle&theme=chartreuse-dark" /></td>
+    <td> align="left"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBulle&theme=chartreuse-dark" </td>
     
   </tr>
 </table>
