@@ -45,7 +45,7 @@
 ## 📈 GitHub Streaks:
 <div class="streaks-grid">
   <div class="streaks-item">
-    <img width="450px" src="[https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBulle&theme=chartreuse-dark](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBulle&theme=chartreuse-dark)" />
+    <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimBulle&theme=chartreuse-dark" />
   </div>
 </div>
 
