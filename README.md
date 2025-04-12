@@ -6,7 +6,7 @@
 - <b> 🌱 I’m currently learning <a href="#">**EXPRESS**</a></b>
 - <b> 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/IbrahimBulle?tab=repositories)</b>
 - <b> 💬 Ask me about <a href="#" style="text-decoration:none;">**HTML , CSS , JS</a> and <a href="#"> BOOTSTRAP**</a></b>
-- <b> 📫 How to reach me **abdiwaliibrahimbule@gmail.com**</b>
+- <b> 📫 How to reach me **abdiwaliibrahimbulle@gmail.com**</b>
 
 ![Snake animation](https://raw.githubusercontent.com/IbrahimBulle/IbrahimBulle/output/github-contribution-grid-snake-dark.svg)
 
