@@ -1,7 +1,9 @@
 # 💫 About Me:<br>
 <h1 align="center">Hi 👋, I'm Ibrahim.</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/40bc1e86-68c9-4f0b-8c99-70eab50a0c38/thumbnail" >
+</p>
 - <b> 🔭I’m currently working on [Bootstrap Frontend](https://github.com/IbrahimBulle/bootstrap-web)</b>
 - <b> 🌱 I’m currently learning <a href="#">**EXPRESS**</a></b>
 - <b> 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/IbrahimBulle?tab=repositories)</b>
