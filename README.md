@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/abdiwali-ibrahim-36aa16299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/abd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abd" height="30" width="40" /></a>
+<a href="https://twitter.com/dev_ibrah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abd" height="30" width="40" /></a>
 
 ## 🛠️ Languages & Tools:
 
