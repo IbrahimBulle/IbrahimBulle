@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,go,java&theme=dark)](https://skillicons.dev)
 
 ### Backend Tools:
-[![My Skills](https://skillicons.dev/icons?i=go,expressjs,nodejs,sqlc,goose,elasticsearch&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,expressjs,nodejs,elasticsearch&perline=15)](https://skillicons.dev)
 
 ### Databases:
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,mysql)](https://skillicons.dev)
