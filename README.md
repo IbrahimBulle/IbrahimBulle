@@ -25,10 +25,10 @@
 [![My Skills](https://skillicons.dev/icons?i=go,expressjs,nodejs)](https://skillicons.dev)
 
 ### Databases:
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
 ### DevOps Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,prometheus,grafana,aws,azure,jenkins,githubactions,npm,vim,linux,ansible,nginx&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,githubactions,vim,linux)](https://skillicons.dev)
 
 ### Welcome to my GitHub profile! I'm excited to share my passion for software development and showcase my projects with you. As an upcoming software developer, you'll find a variety of repositories here that showcase my skills and experience.<br>
 
