@@ -18,7 +18,10 @@
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=javascript,go,java&theme=dark)](https://skillicons.dev)
 
-### Backend Tools:
+### Front-End:
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+
+### Back-End:
 [![My Skills](https://skillicons.dev/icons?i=go,expressjs,nodejs)](https://skillicons.dev)
 
 ### Databases:
