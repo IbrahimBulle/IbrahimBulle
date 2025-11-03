@@ -16,7 +16,7 @@
 ## 🛠️ Languages & Tools:
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,express,nodejs,go,java,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,express,nodejs,go,java&theme=dark)](https://skillicons.dev)
 
 ### Backend Tools:
 [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,expressjs,nodejs,rabbitmq,elasticsearch&perline=15)](https://skillicons.dev)
