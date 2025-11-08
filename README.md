@@ -4,7 +4,7 @@
 - <b> 🔭I’m currently working on personal blog at https://insidecodeblocks.com</b></br>
 - <b> 🌱 I’m currently learning <a href="#">**Go**</a></b></br>
 - <b> 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/IbrahimBulle?tab=repositories)</b></br>
-- <b> 💬 Ask me about <a href="#" style="text-decoration:none;">**HTML , CSS , JS, GO</a> and <a href="#"> Go</a></b></br>
+- <b> 💬 Ask me about <a href="#" style="text-decoration:none;">**HTML , CSS , JS, GO</a></b></br>
 - <b> 📫 How to reach me **abdiwaliibrahimbulle@gmail.com**</b></br>
 
 ![Snake animation](https://raw.githubusercontent.com/IbrahimBulle/IbrahimBulle/output/github-contribution-grid-snake-dark.svg)
