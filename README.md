@@ -16,7 +16,7 @@
 ## 🛠️ Languages & Tools:
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=javascript,go,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,go,java,python&theme=dark)](https://skillicons.dev)
 
 ### Front-End:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,nextjs&theme=dark)](https://skillicons.dev)
