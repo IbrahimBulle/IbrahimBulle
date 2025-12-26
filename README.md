@@ -1,6 +1,6 @@
 # 💫 About Me:<br>
 <h1 align="center">Hi 👋, I'm Ibrahim.</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate full stack developer from Kenya</h3>
 - <b> 🔭I’m currently working on personal blog at https://insidecodeblocks.com</b></br>
 - <b> 🌱 I’m always learning <a href="#">**Go**</a></b></br>
 - <b> 👨‍💻 All of my projects are available at (https://github.com/IbrahimBulle?tab=repositories)</b></br>
