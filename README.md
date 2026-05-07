@@ -1,7 +1,7 @@
 # 💫 About Me:<br>
 <h1 align="center">Hi 👋, I'm Ibrahim.</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
-- <b> 🔭I’m currently working on personal blog at [https://insidecodeblocks.com](https://tech-blog-vytu.onrender.com/)</b></br>
+- <b> 🔭I’m currently working on personal blog at [https://insidecodeblocks.com](https://tech-blog-vytu.onrender.com/]</b></br>
 - <b> 🌱 I’m always learning <a href="#">**Go**</a></b></br>
 - <b> 👨‍💻 All of my projects are available at (https://github.com/IbrahimBulle?tab=repositories)</b></br>
 - <b> 💬 Ask me about <a href="#" style="text-decoration:none;">**HTML , CSS , JS, GO</a></b></br>
