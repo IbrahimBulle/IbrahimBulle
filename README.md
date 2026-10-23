@@ -52,10 +52,4 @@
 </div>
 
 
-## 📊 GitHub contribution graph:
-[![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IbrahimBulle&theme=github-compact&bg_color=000000&color=6BC71D&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abdiwaliibrahimbulle@gmail.com)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
